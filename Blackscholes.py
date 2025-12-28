@@ -5,7 +5,7 @@ import math
 S0 = 500            # Current Stock Price
 K = 300             # Strike Price
 T = 1               # Time Period
-r = 0.06.           # Risk Free Rate
+r = 0.06            # Risk Free Rate
 vol = 0.2           # Volatility
 
 def norm_cdf(x):
